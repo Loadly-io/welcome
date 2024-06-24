@@ -1,6 +1,6 @@
 # Loadly
 
-Loadly is a powerful app distribution platform designed for developers, offering a seamless alternative to TestFlight and Diawi. It simplifies the process of uploading and sharing iOS and Android apps with a focus on speed, security, and ease of use.
+[Loadly](https://loadly.io) is a powerful app distribution platform designed for developers, offering a seamless alternative to TestFlight and Diawi. It simplifies the process of uploading and sharing iOS and Android apps with a focus on speed, security, and ease of use.
 
 ![screenshot-home](./home.png)
 
